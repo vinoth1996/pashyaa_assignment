@@ -1,1 +1,5 @@
-# react-1
+# clone
+
+# npm install
+
+# npm start
